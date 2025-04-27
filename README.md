@@ -22,7 +22,7 @@ Other Tools: Web hosting for the summarizer
 Getting Started
 Clone the Repository
 bash
-git clone <repository-link>  
+'''git clone <repository-link>  
 Install Dependencies
 Use pip to install the required packages:
 
