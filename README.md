@@ -25,7 +25,3 @@ YouTube Transcript Summarizer is a Flask-based backend solution for summarizing 
 ```bash
 git clone <repository-link>
 
-#### Install Dependencies
-Use `pip` to install the required packages:
-```bash
-pip install -r requirements.txt
