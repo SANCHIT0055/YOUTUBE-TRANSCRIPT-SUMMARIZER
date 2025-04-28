@@ -22,8 +22,7 @@ A Flask-based backend solution for summarizing YouTube video transcripts. The AP
    git clone <repository-link>
 Install Dependencies
 
-markdown
-Copy
+
 ## Install Dependencies
 
 ```bash
