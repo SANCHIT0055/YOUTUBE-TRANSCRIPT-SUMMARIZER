@@ -1,5 +1,4 @@
-markdown
-Copy
+
 # YouTube Transcript Summarizer  
 
 A Flask-based backend solution for summarizing YouTube video transcripts. The API processes well-formatted closed captions and returns concise text summaries. Includes a web interface for easy use.  
