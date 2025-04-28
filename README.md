@@ -20,16 +20,16 @@ A Flask-based backend solution for summarizing YouTube video transcripts. The AP
 1. **Clone the Repository**  
    ```bash
    git clone <repository-link>
-Install Dependencies
+
 
 
 ## Install Dependencies
-
+Use `pip` to install the required packages:
 ```bash
 pip install -r requirements.txt
-Run the Application
+
+## Run the Application
 bash
-Copy
 python app.py
 The application will be hosted locally at http://127.0.0.1:5000/.
 
