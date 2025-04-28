@@ -44,20 +44,6 @@ Outputs the summary via API response or web interface.
 Limitations
 Works only on videos with well-formatted closed captions.
 
-Summarization quality depends on transcript formatting.
-
-Future Scope
-Support for multilingual captions.
-
-Improved NLP techniques for summarization.
-
-Modern UI enhancements for the web version.
-
-License
-MIT License—feel free to use and modify.
-
-Acknowledgments
-A heartfelt remembrance of the journey begun in 2020 and the passion that fueled this creation.
 
 
 
