@@ -22,11 +22,13 @@ A Flask-based backend solution for summarizing YouTube video transcripts. The AP
    git clone <repository-link>
 Install Dependencies
 
-bash
+markdown
 Copy
+## Install Dependencies
+
+```bash
 pip install -r requirements.txt
 Run the Application
-
 bash
 Copy
 python app.py
@@ -44,6 +46,20 @@ Outputs the summary via API response or web interface.
 Limitations
 Works only on videos with well-formatted closed captions.
 
+Summarization quality depends on transcript formatting.
+
+Future Scope
+Support for multilingual captions.
+
+Improved NLP techniques for summarization.
+
+Modern UI enhancements for the web version.
+
+License
+MIT License—feel free to use and modify.
+
+Acknowledgments
+A heartfelt remembrance of the journey begun in 2020 and the passion that fueled this creation.
 
 
 
