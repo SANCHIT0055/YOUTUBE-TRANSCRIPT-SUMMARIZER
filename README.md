@@ -30,7 +30,7 @@ A Flask-based backend solution for summarizing YouTube video transcripts. The AP
 ---
 
 
-## Install Dependencies
+2.  **Install Dependencies**
 Use `pip` to install the required packages:
 ```bash
 pip install -r requirements.txt
