@@ -25,7 +25,7 @@ A Flask-based backend solution for summarizing YouTube video transcripts. The AP
 ## Getting Started  
 1. **Clone the Repository**  
    ```bash
-   git clone <repository-link>
+   git clone https://github.com/SANCHIT0055/YOUTUBE-TRANSCRIPT-SUMMARIZER
 
 ---
 
@@ -82,5 +82,8 @@ MIT License—feel free to use and modify.
 A heartfelt remembrance of the journey begun in 2020 and the passion that fueled this creation.
 
 ---
+
+## **Contact & Contributions**  
+For inquiries, feedback, or collaboration, feel free to open an **issue** or reach out via [**SANCHIT**](mailto:sharmasanchit31@gmail.com).
 
 
