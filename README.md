@@ -3,7 +3,7 @@
 
 A Flask-based backend solution for summarizing YouTube video transcripts. The API processes well-formatted closed captions and returns concise text summaries. Includes a web interface for easy use.  
 
-*Created in 2020*: A stepping stone in exploring Flask and text summarization—remembering the journey from where it all began! 
+***Created in 2020*:** **A stepping stone in exploring Flask and text summarization—remembering the journey from where it all began!**
 
 ---
 
